@@ -4,7 +4,11 @@ Simple grpc client/server, with the server being deployed using kubernetes
 
 ## Requirements
 
-You need to have docker, kubectl, and minikube (optional) installed
+You need to have:
+
+- docker
+- kubectl
+- minikube (optional)
 
 ## Try it out !
 
